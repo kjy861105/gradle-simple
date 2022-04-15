@@ -2,6 +2,7 @@
 # test
 # test
 # test
+# Beta Test
 
 [![](https://jitpack.io/v/jitpack/gradle-simple.svg?label=Release)](https://jitpack.io/#jitpack/gradle-simple)
 
