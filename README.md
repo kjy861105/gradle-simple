@@ -1,9 +1,5 @@
 # gradle-simple test
-# test
-# test
-# test
-# Beta Test
-# real Test
+# alpha test
 
 [![](https://jitpack.io/v/jitpack/gradle-simple.svg?label=Release)](https://jitpack.io/#jitpack/gradle-simple)
 
