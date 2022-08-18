@@ -1,5 +1,5 @@
 # gradle-simple test
-# Real Test - 2022.07
+# Alpha Test - 2022.08
 
 [![](https://jitpack.io/v/jitpack/gradle-simple.svg?label=Release)](https://jitpack.io/#jitpack/gradle-simple)
 
