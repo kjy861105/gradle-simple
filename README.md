@@ -1,5 +1,5 @@
 # gradle-simple test
-# real - 2023.01 
+# 2023.02 베타
 
 [![](https://jitpack.io/v/jitpack/gradle-simple.svg?label=Release)](https://jitpack.io/#jitpack/gradle-simple)
 
