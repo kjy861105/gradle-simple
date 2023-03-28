@@ -1,5 +1,5 @@
 # gradle-simple test
-# 2023.03 알파
+# 2023.03 리얼
 
 [![](https://jitpack.io/v/jitpack/gradle-simple.svg?label=Release)](https://jitpack.io/#jitpack/gradle-simple)
 
